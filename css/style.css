@@ -1,0 +1,119 @@
+.icon-div {
+    text-align: center;
+    padding: 25px;
+}
+
+.icon-div i {
+    font-size: 40px;
+}
+
+.btn-select-role {
+    margin: 10px 0;
+}
+
+#reportConfigContainer {
+    padding: 0em 0em 0em 1.5em;
+}
+
+
+
+.action-icon{
+    background: #fff;
+    border-radius: 50px;
+    padding: 1em;
+    height: 48px;
+    width:48px;
+    text-align: center;
+    color: #555;
+}
+
+.actions a{
+    margin-right: 1em;
+}
+
+#reportCanvas{
+    margin-top: 5px;
+}
+
+html,body{
+    position: relative;
+    min-height: 100%;
+    padding:0;
+    margin:0;
+    height:100%;
+}
+#wrapper{
+    min-height: 100%;
+    margin: 0 auto -50px;
+}
+footer, .push {
+    padding-top: 20px;
+    height: 50px;
+   
+}
+footer {
+    padding-top: 20px;
+    height: 50px;
+    width: 100%;
+    background-color: #343a40;
+    color: #efefef;
+    text-align:center;
+}
+.container{
+  padding-bottom: 10em;
+
+}
+.formButtons {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: .6rem .75rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    /*font-weight: 400;
+    height:200px;*/
+}
+
+.formButtons:hover {
+    background-color: #0051a1;
+    cursor: pointer;
+}
+
+.formTitles {
+    text-align: center;
+}
+
+#formStepsContainer {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.formSteps {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.formErrorMessages {
+    font-size: 11px;
+    color: #a1b4bf;
+    padding-left: 10px;
+}
+
+#contact-button:hover {
+    background-color: #0051a1;
+}
+
+.manageAccountFormTitles {
+    padding-top: 15px;
+}
+
+.signUpFormLabels {
+    font-size: 12px;
+    color: gray;
+}

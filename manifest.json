@@ -1,0 +1,20 @@
+{
+  "name": "Timesheet Manager",
+  "short_name": "Timesheets",
+  "icons": [{
+    "src": "images/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "images/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "lang": "en-UK",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "index.php",
+  "background_color": "#b1ddef",
+  "theme_color": "#b1ddef"
+
+}
